@@ -8,6 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+hawaii.sqlite
+hawaii_measurements.csv
+hawaii_stations.csv
 build/
 develop-eggs/
 dist/

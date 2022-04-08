@@ -10,9 +10,8 @@ The climate analysis can be found at [starter notebook](/main/climate_starter.ip
 A Flask API was designed based on the queries developed. [app/py](./app.py)
 
 To run the app.py, nevigate to the folder and type "python app.py".
-Open the homepage and adjust the url to your selection from the list of routes:
 
-The following code contains additional queries: 
+Open the homepage and adjust the url to your selection from the list of routes:
 
 ![Home Page](./images/homepage.png)
 
@@ -37,8 +36,8 @@ The following code contains additional queries:
 ![Start End](./images/start-end.png)
 
 
-This climate analysis code can be found at [starter notebook](./climate_starter.ipynb). This includes the precipiation analysis and the station analysis.
+This climate analysis code can be found at [Jupyter notebook](./climate_starter.ipynb). This includes the precipiation analysis and the station analysis.
 
 
-The following are optional challenge queries: 
-[bonus 1](./temp_analysis_bonus_1_starter.ipynb) and [bonus 2](./temp_analysis_bonus_2_starter.ipynb)
+The following are additional queries: 
+[Additional 1](./temp_analysis_bonus_1_starter.ipynb) and [Additional 2](./temp_analysis_bonus_2_starter.ipynb)
